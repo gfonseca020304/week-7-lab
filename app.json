@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "373a8a10-c19a-44fd-bc35-5f654f298505"
+      }
+    },
+    "owner": "gfonseca03"
   }
 }
